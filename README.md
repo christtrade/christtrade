@@ -11,4 +11,4 @@ npm i @christtrade/depth
 - Docs: [docs.christtrade.com/depth](https://docs.christtrade.com/depth)
 - Devlog: [christtrade.com/devlog](https://christtrade.com/devlog), e.g. [60 to 240fps at 1M candles](https://christtrade.com/devlog/240fps)
 
-Built by Carl Sterner, Sweden.
+Built by Carl Sterner, Sweden. [LinkedIn](https://www.linkedin.com/in/carlsterner-dev)
